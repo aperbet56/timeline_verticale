@@ -6,7 +6,7 @@ J'ai voulu créé une frise verticale qui indique les sept derniers vainqueurs d
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/timeline_verticale/
 
 ## Développez avec
 
