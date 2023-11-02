@@ -90,7 +90,49 @@ header h1 {
     margin: 20px 0;
     border-radius: 15px;
     box-shadow: 0 5px 8px 5px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    animation : appear 3s ease-in-out forwards;
 }
+
+/**** animation appear ****/
+
+@keyframes appear {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.timeline__block:nth-child(1) {
+    animation-delay: 0.5s;
+}
+
+.timeline__block:nth-child(2) {
+    animation-delay: 1s;
+}
+
+.timeline__block:nth-child(3) {
+    animation-delay: 1.5s;
+}
+
+.timeline__block:nth-child(4) {
+    animation-delay: 2s;
+}
+
+.timeline__block:nth-child(5){
+    animation-delay: 2.5s;
+}
+
+.timeline__block:nth-child(6) {
+    animation-delay: 3s;
+}
+
+.timeline__block:nth-child(7) {
+    animation-delay: 3.5s;
+}
+
 
 .timeline__block:nth-child(even) {
     left: calc(50% + 20px);
