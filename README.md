@@ -1,5 +1,7 @@
 ## FRISE VERTICALE : COUPE DU MONDE DE LA FIFA
 
+![Design preview for the project](./img/banner.png)
+
 ## Le challenge
 
 J'ai voulu créé une frise verticale qui indique les sept derniers vainqueurs de la coupe du monde de la FIFA ainsi que le pays organisateur. Cette frise apparaît de manière progresssive.
