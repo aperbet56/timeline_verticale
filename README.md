@@ -1,6 +1,6 @@
-## FRISE VERTICALE : COUPE DU MONDE DE LA FIFA
+## FRISE VERTICALE : COUPE DU MONDE DE LA FIFA ⚽️
 
-![Design preview for the project](./img/banner.png)
+![Design preview for the project](./img/preview.png)
 
 ## Le challenge
 
